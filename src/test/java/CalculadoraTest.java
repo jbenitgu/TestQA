@@ -24,5 +24,6 @@ public class CalculadoraTest {
     public void testMultiplicacion(){
         System.out.println("Ejecutando test Multiplicacion");
         assertEquals(15, cal.multiplicacion(5,3));
+        assertEquals(36, cal.multiplicacion(12,3));
     }
 }
