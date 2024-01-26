@@ -23,6 +23,6 @@ public class CalculadoraTest {
     @Test
     public void testMultiplicacion(){
         System.out.println("Ejecutando test Multiplicacion");
-        assertEquals(8, cal.multiplicacion(5,3));
+        assertEquals(15, cal.multiplicacion(5,3));
     }
 }
