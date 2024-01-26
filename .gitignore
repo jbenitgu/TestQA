@@ -1,0 +1,17 @@
+# IntelliJ IDEA
+.idea/
+
+# Maven
+target/
+*.iml
+.idea_modules/
+
+# Logs
+logs/
+
+# Eclipse
+.classpath
+.project
+
+# Visual Studio Code
+.vscode/
