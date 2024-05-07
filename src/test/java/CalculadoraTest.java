@@ -13,6 +13,7 @@ public class CalculadoraTest {
         System.out.println("Ejecutando test Suma");
         assertEquals(8, cal.suma(3,5));
         assertEquals(103, cal.suma(3,100));
+
     }
 
     @Test
@@ -42,6 +43,7 @@ public class CalculadoraTest {
                 "-------------------------------------------------------------------------------------|\n" +
                 "-------------------------------------------------------------------------------------|\n" ;
         System.out.println(NTTDATA_WELCOME);
+        System.out.println("Hola Interbank!!");
     }
 
 
