@@ -4,7 +4,7 @@ import com.bensg.Calculadora;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-
+ //Modificado en la Web #1
 public class CalculadoraTest {
     Calculadora cal = new Calculadora();
 
@@ -13,6 +13,7 @@ public class CalculadoraTest {
         System.out.println("Ejecutando test Suma");
         assertEquals(8, cal.suma(3,5));
         assertEquals(103, cal.suma(3,100));
+        //Modificado en la Web #2
 
     }
 
