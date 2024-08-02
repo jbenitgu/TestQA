@@ -3,7 +3,7 @@ package com.bensg;
 public class Calculadora {
 
     public int suma(int a, int b){
-        int res = a + b+1;
+        int res = a + b;
         return res;
     }
 
