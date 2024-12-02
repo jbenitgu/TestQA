@@ -1,6 +1,0 @@
-[wsl2]
-memory=12GB
-processors=4
-swap=4GB
-
-C:\Users\g_pocsonarqube\.wslconfig
