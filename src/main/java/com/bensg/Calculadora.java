@@ -9,7 +9,7 @@ public class Calculadora {
 
     public int resta(int a, int b){
         int res = a - b;
-        return res
+        return res;
     }
     public int multiplicacion(int a, int b){
         int res = a * b;
