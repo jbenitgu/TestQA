@@ -3,7 +3,8 @@ package com.bensg;
 public class Calculadora {
 
     public int suma(int a, int b){
-        int res = a + b;
+        System.out.println("Holaaa");
+        int res = a - b;
         return res;
     }
 
