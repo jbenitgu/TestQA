@@ -6,7 +6,7 @@ public class Calculadora {
         int res = a + b; //editado en Intelli
         return res;
     }
-
+ 
     public int resta(int a, int b){
         int res = a - b;
         return res;
