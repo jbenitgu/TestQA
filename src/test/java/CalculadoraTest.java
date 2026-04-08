@@ -3,7 +3,7 @@ import static org.junit.Assert.*;
 import com.bensg.Calculadora;
 import org.junit.BeforeClass;
 import org.junit.Test;
-
+...
 
 public class CalculadoraTest {
     Calculadora cal = new Calculadora();
