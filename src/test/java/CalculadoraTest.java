@@ -3,13 +3,14 @@ import static org.junit.Assert.*;
 import com.bensg.Calculadora;
 import org.junit.BeforeClass;
 import org.junit.Test;
-...
+
 
 public class CalculadoraTest {
     Calculadora cal = new Calculadora();
 
     @Test
     public void testSuma(){
+        System.out.println("Nttdata!!");
         System.out.println("Ejecutando test Suma");
         assertEquals(8, cal.suma(3,5));
         assertEquals(103, cal.suma(3,100));
