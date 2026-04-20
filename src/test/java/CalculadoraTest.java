@@ -11,9 +11,9 @@ public class CalculadoraTest {
     @Test
     public void testSuma(){
         System.out.println("Nttdata!!");
-        System.out.println("Ejecutando test Suma");
+        System.out.println("Ejecutando test Suma !!!");
         assertEquals(8, cal.suma(3,5));
-        assertEquals(103, cal.suma(3,100));
+        assertEquals(103, cal.suma(3,10));
 
     }
 
