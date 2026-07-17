@@ -13,7 +13,8 @@ public class CalculadoraTest {
         System.out.println("Nttdata!!");
         System.out.println("Ejecutando test Suma !!!");
         assertEquals(8, cal.suma(3,5));
-        assertEquals(103, cal.suma(3,10));
+        assertEquals(13, cal.suma(3,10));
+         System.out.println("Hola!! 17/07");
 
     }
 
