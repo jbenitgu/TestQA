@@ -8,7 +8,7 @@ public class Calculadora {
     }
     //nueva linea
     public int resta(int a, int b){
-        int res = a - b;
+        int res = a + b;
         return res;
     }
     public int multiplicacion(int a, int b){
